@@ -11,12 +11,12 @@ jobs:
   update-sponsors:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@692973e3d937129bcbf40652eb9f2f61becf3332 # v4
 
       - run: corepack enable
 
       - name: Set node
-        uses: actions/setup-node@v4
+        uses: actions/setup-node@60edb5dd545a775178f52524783378180af0d1f8 # v4
         with:
           node-version: 20
           cache: pnpm
@@ -30,7 +30,7 @@ jobs:
           SPONSORKIT_GITHUB_LOGIN: barbapapazes
 
       - name: Commit
-        uses: EndBug/add-and-commit@v5
+        uses: EndBug/add-and-commit@d192ad0aba5a5d7fb0d46f90f3ab92bf2ad1c608 # v5
         with:
           message: "chore: update sponsors"
           add: "sponsors.*"
