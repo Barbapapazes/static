@@ -30,7 +30,7 @@ jobs:
           SPONSORKIT_GITHUB_LOGIN: barbapapazes
 
       - name: Commit
-        uses: EndBug/add-and-commit@d192ad0aba5a5d7fb0d46f90f3ab92bf2ad1c608 # v5
+        uses: EndBug/add-and-commit@a94899bca583c204427a224a7af87c02f9b325d5 # v9
         with:
           message: "chore: update sponsors"
           add: "sponsors.*"
