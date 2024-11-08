@@ -4,8 +4,8 @@
     "build": "sponsorkit"
   },
   "dependencies": {
-    "sharp": "^0.33.4",
-    "sponsorkit": "^0.15.2"
+    "sharp": "^0.33.5",
+    "sponsorkit": "^0.16.2"
   },
   "packageManager": "pnpm@9.6.0"
 }
