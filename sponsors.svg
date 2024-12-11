@@ -17,10 +17,10 @@ text {
 </style>
 <text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Backers</text><a href="https://paulnallet.com" class="sponsorkit-link" target="_blank" id="paul-nallet">
   
-  <clipPath id="c1">
+  <clipPath id="c0">
     <rect x="344.5" y="65" width="35" height="35" rx="17.5" ry="17.5" />
   </clipPath>
-  <image x="344.5" y="65" width="35" height="35" href="data:image/webp;base64,UklGRhIDAABXRUJQVlA4IAYDAACwDgCdASoyADIAPm0ukUYkIqGhLhbccIANiWYAs7PfRTfAfkB0SAu9S7trgU/QaUTU1Wc6IXEzpOMZvof6EZAuFW97/WocA4p23VDsZB/E7qV4GIbOdp4BV99IR9IFQyLq6j4rPMY7uUWAScTxopvmSAyVa/CxtdKoxyToxRAA/vDXC806SZ/+rQ8tDy0PuffaxeghqPb5m7byEvGisPpgQjVBJYoI1RUiRgQIdIHPl3WlvLj0eM/PHNOkAy6fQUY9nH7YRDd/EYFntpxNpjK59mCKgxl/VZMLQm+jrZ4VfQLaykmI6pZQD4c3R/8D3zjnVz+GSFfDxnsgpxQt8bsr9HVCh2nMVXIbzk35/c9Na0658446yendfX+aY4OqwIvlcCLBAermy7hy2sXKdYQ2O60Yx7xn3J6ihw2qa7f4s/7R8EBfcrKRfOQGYaPsiLY8DHfnOd3BFbcYgK9tn5+P37fXDrQz+MQzDy41DRo/VNvYQM+86yinHZMhPSJcs1y6whQR3/w0svnHHT62vHbWkc7DmtRvhrko31ptBzrPnOuG1vLGIra9+64La3Z2r0zfED/N+X+THVFMpKSCSBXgHiS8PdVVk//XN8xu/6+GdUI9XaeWNU/n9FVVd9JGuffkTHd8VraXmGoPtQ3gb+INzZ66a7I9lBh/dF9dECXfpr8FDgSOYHTOFsrhZRVzvbtDMOl5sc/GvkSQQHZLX4gSgLRvQG+b+W0IabyXu0kCF/8dY8M8OezIvVI+f38vkSQx3JRpREO4sRlROeikG4c2GKdO/vIsA/m0UU0gqZsuG/niCeZ4Gtg6sz0yMjAOa+AlurEcV9pC/nVFnEN1mfiDjiB9IFn84+u47lHz8BGA8iTpoAQ1dRuioJt1/r4SnsAtUbXNfkQqH53/WshakBF+egn46SuDosF1ew7Tl/2hf90U4vWqObBNumUWrUQmVcVQnPv08xAc/H8DrCEwpgXDbsF2juGl7yjv3hFn9FcExzZuaK4zsdC704ATPuCNoSm0A/K4AAA=" clip-path="url(#c1)"/>
+  <image x="344.5" y="65" width="35" height="35" href="data:image/webp;base64,UklGRhIDAABXRUJQVlA4IAYDAACwDgCdASoyADIAPm0ukUYkIqGhLhbccIANiWYAs7PfRTfAfkB0SAu9S7trgU/QaUTU1Wc6IXEzpOMZvof6EZAuFW97/WocA4p23VDsZB/E7qV4GIbOdp4BV99IR9IFQyLq6j4rPMY7uUWAScTxopvmSAyVa/CxtdKoxyToxRAA/vDXC806SZ/+rQ8tDy0PuffaxeghqPb5m7byEvGisPpgQjVBJYoI1RUiRgQIdIHPl3WlvLj0eM/PHNOkAy6fQUY9nH7YRDd/EYFntpxNpjK59mCKgxl/VZMLQm+jrZ4VfQLaykmI6pZQD4c3R/8D3zjnVz+GSFfDxnsgpxQt8bsr9HVCh2nMVXIbzk35/c9Na0658446yendfX+aY4OqwIvlcCLBAermy7hy2sXKdYQ2O60Yx7xn3J6ihw2qa7f4s/7R8EBfcrKRfOQGYaPsiLY8DHfnOd3BFbcYgK9tn5+P37fXDrQz+MQzDy41DRo/VNvYQM+86yinHZMhPSJcs1y6whQR3/w0svnHHT62vHbWkc7DmtRvhrko31ptBzrPnOuG1vLGIra9+64La3Z2r0zfED/N+X+THVFMpKSCSBXgHiS8PdVVk//XN8xu/6+GdUI9XaeWNU/n9FVVd9JGuffkTHd8VraXmGoPtQ3gb+INzZ66a7I9lBh/dF9dECXfpr8FDgSOYHTOFsrhZRVzvbtDMOl5sc/GvkSQQHZLX4gSgLRvQG+b+W0IabyXu0kCF/8dY8M8OezIvVI+f38vkSQx3JRpREO4sRlROeikG4c2GKdO/vIsA/m0UU0gqZsuG/niCeZ4Gtg6sz0yMjAOa+AlurEcV9pC/nVFnEN1mfiDjiB9IFn84+u47lHz8BGA8iTpoAQ1dRuioJt1/r4SnsAtUbXNfkQqH53/WshakBF+egn46SuDosF1ew7Tl/2hf90U4vWqObBNumUWrUQmVcVQnPv08xAc/H8DrCEwpgXDbsF2juGl7yjv3hFn9FcExzZuaK4zsdC704ATPuCNoSm0A/K4AAA=" clip-path="url(#c0)"/>
 </a>
 <a href="https://greenmeister.nl" class="sponsorkit-link" target="_blank" id="GreenmeisterNL">
   
@@ -31,10 +31,10 @@ text {
 </a>
 <a href="http://reaper.is" class="sponsorkit-link" target="_blank" id="barelyhuman">
   
-  <clipPath id="c0">
+  <clipPath id="c1">
     <rect x="420.5" y="65" width="35" height="35" rx="17.5" ry="17.5" />
   </clipPath>
-  <image x="420.5" y="65" width="35" height="35" href="data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAAAQBwCdASoyADIAPm02lkikIqIhIgoggA2JaQAD4BPK/0A9iX9VRoRgJBz8QwSHTWHor4pDxi32f6fC4BMgrOkegAD++sQYdXuZr+3yz4oUPLugBPkfb1+pi63zcBsfzPabp6/Dw45+Rxf/ztc+CqUxdNq7Vjw6ekXYsurlZD0cgFKBiYeOVmRI/OU8Euue/jSf0fEsEbeGeV5SYGM9LqO1eW+t/jOcdIu+UoNtZIJ0rset3aZxgPAeTv+oPbBtTafYW7qWtMju+g/zO57BgAAAAAA=" clip-path="url(#c0)"/>
+  <image x="420.5" y="65" width="35" height="35" href="data:image/webp;base64,UklGRt4AAABXRUJQVlA4INIAAAAQBwCdASoyADIAPm02lkikIqIhIgoggA2JaQAD4BPK/0A9iX9VRoRgJBz8QwSHTWHor4pDxi32f6fC4BMgrOkegAD++sQYdXuZr+3yz4oUPLugBPkfb1+pi63zcBsfzPabp6/Dw45+Rxf/ztc+CqUxdNq7Vjw6ekXYsurlZD0cgFKBiYeOVmRI/OU8Euue/jSf0fEsEbeGeV5SYGM9LqO1eW+t/jOcdIu+UoNtZIJ0rset3aZxgPAeTv+oPbBtTafYW7qWtMju+g/zO57BgAAAAAA=" clip-path="url(#c1)"/>
 </a><text x="400" y="133" text-anchor="middle" class="sponsorkit-tier-title">Past Sponsors</text><a href="https://github.com/selemondev" class="sponsorkit-link" target="_blank" id="selemondev">
   
   <clipPath id="c4">
