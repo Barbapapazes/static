@@ -15,6 +15,11 @@ export default defineConfig({
       title: "Backers",
       preset: tierPresets.small,
     },
+    {
+      title: "Sponsors",
+      monthlyDollars: 8,
+      preset: tierPresets.medium,
+    },
   ],
   outputDir: ".",
 });
