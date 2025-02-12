@@ -31,17 +31,17 @@ text {
 </a>
 <a href="https://github.com/hrynevychroman" class="sponsorkit-link" target="_blank" id="hrynevychroman">
   
-  <clipPath id="c3">
+  <clipPath id="c4">
     <rect x="380" y="210" width="40" height="40" rx="20" ry="20" />
   </clipPath>
-  <image x="380" y="210" width="40" height="40" href="data:image/webp;base64,UklGRoQDAABXRUJQVlA4IHgDAACwEACdASoyADIAPm0ukUakIqGhLhSccIANiWMAnTNaRujScG+jbb63bMoRJ4Q5BVo94T6REoe4s2RfVNeQp/hb+vk33CpdceaQNF5mw1vH5GYPnOjpDrafIcM09GbmmXFAE/yARdaLrNNggG8QYFEsA6CN/8dAQmFNWcZQZTfQ+o66bcPzjYCqO3QTC+gAAP7+YacpddXIac2YUkahLrE7W+iBNcXOzv8ezYfW6DIWaNiBue2QU1t+Az3LrdrxEwLr/mrYUmjRTxxqjF0r9AGr90RGmEUiHoosJXVF31vfrvdB/pAa/8VxQfjleuqIFNjlMp/odTwcF1g9vpFPVP8+1p/TZyCAM7/WUx//A3ntww7WGmPcG7gXcqzKhHDphegCxazOPBepEs75zJG51ckTPtoZEBcYci/JfSH/saYMD1fyUpWlyV38gHSklpQQCq3jeXzCOJVH+mUTSUyXpHDO1HkkD7fdDv5MBGmjt/WUCojD2cVZVO26miHIXyzxnRoIjBqwORIAO0QuQdq1DLe/c/Y0WbHCTEe9Z3asiKOwtgHiuMMOl7DWxkpaGroyfFaGNMSzh5VHwjsfOCuVpmbs+r1F+27KHWmM8a/GEiqoTLsYI+z5a6joMzCWweGWpsm36BNWYGdNkFy4FQbybfSXDGTIopcg3n3mC6z1uBXAFVo1P0bKAI9523QgYf6vdHzfb4bbmErE7hUyItHSGG7jN3Qm3184O81CdrNV8QIpR+/zpLSuyrs7veUHnUl8YpWYTSoISipmEh6lrO3x8noOR+aQVgI7x7TiuxhX4oH1GhjlThL4f28pkswRHy1E+AZUAKgxIdBMyYNaz2WsR33Ig6f3ZhEPFTKPt7iQizbWABEgr4S/OecJKNarHYbHR3+ixfhJHZz/E5KWX7lfW+qGq6NMv3C80grsLZjE45OetmRtksgcv2DTm705YsW2VvZlWKFUbgUbm9m14xh2r89f+CcWHuuCLt8UcC3iL8zsBKn2sn214PXiv70Z7WI4i4eDnGEPr+55y/9DKDqhiP5MK0mZrnipnlD2URVuOOMcNZ/wFfKcJdn+o1EepC4JisLLccHwgRlWuQy/34u+lrnQ/Pu0BHTwpZh8m9Ut4Vq6SRQbjw1A8J1gZpENq3/HQGWl8F14TdSmWctpcaZnWCPE3ZnRWdF2AAA=" clip-path="url(#c3)"/>
+  <image x="380" y="210" width="40" height="40" href="data:image/webp;base64,UklGRoQDAABXRUJQVlA4IHgDAACwEACdASoyADIAPm0ukUakIqGhLhSccIANiWMAnTNaRujScG+jbb63bMoRJ4Q5BVo94T6REoe4s2RfVNeQp/hb+vk33CpdceaQNF5mw1vH5GYPnOjpDrafIcM09GbmmXFAE/yARdaLrNNggG8QYFEsA6CN/8dAQmFNWcZQZTfQ+o66bcPzjYCqO3QTC+gAAP7+YacpddXIac2YUkahLrE7W+iBNcXOzv8ezYfW6DIWaNiBue2QU1t+Az3LrdrxEwLr/mrYUmjRTxxqjF0r9AGr90RGmEUiHoosJXVF31vfrvdB/pAa/8VxQfjleuqIFNjlMp/odTwcF1g9vpFPVP8+1p/TZyCAM7/WUx//A3ntww7WGmPcG7gXcqzKhHDphegCxazOPBepEs75zJG51ckTPtoZEBcYci/JfSH/saYMD1fyUpWlyV38gHSklpQQCq3jeXzCOJVH+mUTSUyXpHDO1HkkD7fdDv5MBGmjt/WUCojD2cVZVO26miHIXyzxnRoIjBqwORIAO0QuQdq1DLe/c/Y0WbHCTEe9Z3asiKOwtgHiuMMOl7DWxkpaGroyfFaGNMSzh5VHwjsfOCuVpmbs+r1F+27KHWmM8a/GEiqoTLsYI+z5a6joMzCWweGWpsm36BNWYGdNkFy4FQbybfSXDGTIopcg3n3mC6z1uBXAFVo1P0bKAI9523QgYf6vdHzfb4bbmErE7hUyItHSGG7jN3Qm3184O81CdrNV8QIpR+/zpLSuyrs7veUHnUl8YpWYTSoISipmEh6lrO3x8noOR+aQVgI7x7TiuxhX4oH1GhjlThL4f28pkswRHy1E+AZUAKgxIdBMyYNaz2WsR33Ig6f3ZhEPFTKPt7iQizbWABEgr4S/OecJKNarHYbHR3+ixfhJHZz/E5KWX7lfW+qGq6NMv3C80grsLZjE45OetmRtksgcv2DTm705YsW2VvZlWKFUbgUbm9m14xh2r89f+CcWHuuCLt8UcC3iL8zsBKn2sn214PXiv70Z7WI4i4eDnGEPr+55y/9DKDqhiP5MK0mZrnipnlD2URVuOOMcNZ/wFfKcJdn+o1EepC4JisLLccHwgRlWuQy/34u+lrnQ/Pu0BHTwpZh8m9Ut4Vq6SRQbjw1A8J1gZpENq3/HQGWl8F14TdSmWctpcaZnWCPE3ZnRWdF2AAA=" clip-path="url(#c4)"/>
 </a>
 <a href="https://github.com/kermitsxb" class="sponsorkit-link" target="_blank" id="kermitsxb">
   
-  <clipPath id="c4">
+  <clipPath id="c3">
     <rect x="428" y="210" width="40" height="40" rx="20" ry="20" />
   </clipPath>
-  <image x="428" y="210" width="40" height="40" href="data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADQBgCdASoyADIAPm02mEekIyKhKBgIqIANiWcA0O0yOwBT6Dl0nPKrfiy0lD2urQ+KrZEYOhw73pEQ0NsUSegA/vxc9K4GgH+I3Qgp6wnOrznukuR5XUvg5Nd+dzDm8UgCoAZa+c077Ou38pg1D36/Ns60+Z29HUUzRZEajYfx+pkL82DRZjza3FvMAQRyBe6cz10M0aOSvH1eXPYx+motR2VZO5toEhGwZSQtHNENT5jEndnty/Pf37oEAKQ4AmrXgNSKZfmHMreLYuJLKuyqjdZSMIziJEhjNspQYognCROnkEG0nFB3niz4RDCYDB8ahvl7tjgAAA==" clip-path="url(#c4)"/>
+  <image x="428" y="210" width="40" height="40" href="data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADQBgCdASoyADIAPm02mEekIyKhKBgIqIANiWcA0O0yOwBT6Dl0nPKrfiy0lD2urQ+KrZEYOhw73pEQ0NsUSegA/vxc9K4GgH+I3Qgp6wnOrznukuR5XUvg5Nd+dzDm8UgCoAZa+c077Ou38pg1D36/Ns60+Z29HUUzRZEajYfx+pkL82DRZjza3FvMAQRyBe6cz10M0aOSvH1eXPYx+motR2VZO5toEhGwZSQtHNENT5jEndnty/Pf37oEAKQ4AmrXgNSKZfmHMreLYuJLKuyqjdZSMIziJEhjNspQYognCROnkEG0nFB3niz4RDCYDB8ahvl7tjgAAA==" clip-path="url(#c3)"/>
 </a><text x="400" y="288" text-anchor="middle" class="sponsorkit-tier-title">Backers</text><a href="http://reaper.is" class="sponsorkit-link" target="_blank" id="barelyhuman">
   
   <clipPath id="c5">
