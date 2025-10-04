@@ -26352,7 +26352,7 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": 20,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$20 a month",
     "createdAt": "2024-12-16T18:25:37Z",
