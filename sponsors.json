@@ -38610,7 +38610,7 @@
       }
     },
     "isOneTime": true,
-    "monthlyDollars": 50,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$50 one time",
     "createdAt": "2026-01-26T19:40:41Z",
