@@ -17,10 +17,10 @@ text {
 </style>
 <text x="400" y="40" text-anchor="middle" class="sponsorkit-tier-title">Sponsors</text><a href="https://github.com/kermitsxb" class="sponsorkit-link" target="_blank" id="kermitsxb">
   
-  <clipPath id="c24fbf5">
+  <clipPath id="c87c9aa">
     <rect x="356" y="65" width="40" height="40" rx="20" ry="20" />
   </clipPath>
-  <image x="356" y="65" width="40" height="40" href="data:image/webp;base64,UklGRgQBAABXRUJQVlA4IPgAAADQBgCdASoyADIAPm02mEekIyKhKBgIqIANiWcA0O0yOwBT6Dl0nPKrfiy0lD2urQ+KrZEYOhw73pEQ0NsUSegA/vxc9K4GgH+I3Qgp6wnOrznukuR5XUvg5Nd+dzDm8UgCoAZa+c077Ou38pg1D36/Ns60+Z29HUUzRZEajYfx+pkL82DRZjza3FvMAQRyBe6cz10M0aOSvH1eXPYx+motR2VZO5toEhGwZSQtHNENT5jEndnty/Pf37oEAKQ4AmrXgNSKZfmHMreLYuJLKuyqjdZSMIziJEhjNspQYognCROnkEG0nFB3niz4RDCYDB8ahvl7tjgAAA==" clip-path="url(#c24fbf5)"/>
+  <image x="356" y="65" width="40" height="40" href="data:image/webp;base64,UklGRgIBAABXRUJQVlA4IPYAAAAQBwCdASoyADIAPm02mEekIyKhKBgIqIANiWcA0pD9+zxT5Dl0nPJhbsgGKTSdxmyDMn+S1ypvjdk22hJUVnRWAAD+/Fz+oTasv6bBCCnrCUqu7b3Tfnhocpv1gtC+fgjRnh/cQAy18UZQ548g3QJAfrT3axETczt6OopmiyNcjOYMBE7imrmtMly53KY+ozrQxUtWxD6b81TpDNm9WlpdCGtWk1I5bAqAUhz9XroqA6bHrPXJxzKXarMUcYVZg3NN31GsNAiRWRy69J6LWY6bnZc/PRzzLekE4KeAavTte26+TKFX6luMpyvygK52ogicEgAAAAA=" clip-path="url(#c87c9aa)"/>
 </a>
 <a href="http://matthias-zepper.de" class="sponsorkit-link" target="_blank" id="MatthiasZepper">
   
@@ -64,10 +64,10 @@ text {
 </a>
 <a href="https://gmail.com" class="sponsorkit-link" target="_blank" id="David-Pena">
   
-  <clipPath id="cdfdf43">
+  <clipPath id="c797bd6">
     <rect x="387.5" y="261" width="25" height="25" rx="12.5" ry="12.5" />
   </clipPath>
-  <image x="387.5" y="261" width="25" height="25" href="data:image/webp;base64,UklGRowCAABXRUJQVlA4IIACAADwDQCdASoyADIAPm0sk0akIiGhLBVcAIANiWcAzB5tHVy98KL+cxPm2kly7lAEC3+mkV1pVbtH1DxAPN9GBi59jyvp/Uhf6+/IVy0i2j5//wT24Ub51MlfdGiInKMb/QUI5BWimzsXexXPb6UTiqA2LbqFBSSOlMAA/v4rQj0UbFBCsv189LWauQ3cqgX7PJr6dsS27rL3AHtIQPQn5pWNdDiX5DJg7vw/ZTALzkvUmoDgriXSO8eX55ooaffY3L9sPcQ3zkNBAMpNtimSA4oBnqk/4HX1oHEBBJraftSUgikSFdxwy2/tOOGLBf9Cv5SuKlqhQiuKAQBtfMclull6oUlBxxbAooGPpTMssG+j2x7G8MWK+s9w0z+D0DWW/ff4ffNOskUS+MzdhbWtpCuBgMqeYUu9tVeW1CLZ3gQgHxvqi+h3Tey0e9vVUcfY+h+tw4hZOU7cHjOU5neJnCunwgFfbh9TVbCmWa6o6zkMgzDNJCq7Fo8vE6yAEX0j4sCTpVASr7HYhwlM1nO7meSWyTMoqptQJ2TkMUoLGnacCZVDnCdM+2TpNTJZxuwaL6dWIDF/+FXADzyK1/D7EKQ+NcWq4YOfyA1vZtb9rDpWmZbsHGPGM86fYmOJkWE6nP/4JpH0Q6cCjKgMveDDGzadX7ITJPhmI4Rlzd/AwhaWQ+Q4C0muq/Ys3KwrYayenD/3coc54G8BCAW5QKPJWucl8GVZAAU9a9Yob2jv4P5HNQlhH8eKKtggCq+Hb2MtLq0AjpVjHiN9aSxzU8YAx6oKQcrqes0WKSrZnFk3U/1JuwI00lcSRGcKU0JMDjrxzSuTGqiCxEIXxpLst9haQAAA" clip-path="url(#cdfdf43)"/>
+  <image x="387.5" y="261" width="25" height="25" href="data:image/webp;base64,UklGRpICAABXRUJQVlA4IIYCAAAwDwCdASoyADIAPm0qkkYkIiGhLhSdUIANiWcA0EwwyBljDhBpsGihyenDcFccQ5xkaVSn8kzjppiPJ8sf2FtZ2UMwQSc+ax4tg+40+e5yk/EDPvuw+AQBczLhwZFd3qY+H5Y+Zb5IO6EsAP/wvkkWnEZCbjdK9uDANvnUYsBiinCAAP7+eLe402JoPO6n6FH6ATFXiRDjyRPc8d+4MBDpKmzlxBgaku6NLvYeE+nZjZJmvUz1x4t4xohJ1qWvBAG5Q5Q9aTZpch6EuhJxNUq82uoEGhjEfKFNTwNcjGLDzLeBjflk9yU/1UdI4nyNF9j6/0bU4ilJJVKdXdMENIVfxKx1H7h/4c3PLtJj/LAoXLeD4turSAomfidM/o0AQUpGmYZXxohC6KbeO2uUWJgf/Mii2lwWL2MPcFf2sQc0gf0t0CuGe5cO3XPm2JdZJ8hciXRWc3MgPodHtuXeAKJSqdbviannVOcaSFoXM+Ltw9Nf2y11pKtoeKarCGUYrgzGZPatyjS+XL0bHYEuEsYV74HXsWEh3uFb4TRBXeicndtbfyLOrij+Lz8JYBXUmEmSo9+5JzIlK9V3fFNm183MUVJZWqi7BqRPTfKIa6OusyAX6aGYZZDFGawXNYMwIT5zpbfchHKv+511OSe8Vdk5nOLeUg5E9o9iIezF4V4D5Dvl5tPRID4+t7KEFLMT6Ra6okg+3mwj/3jCdy4WHLGig7cyqsMsrjz/8P7Q90tTY7HTaeZBZqTwctRx+swhnLJcyuT8Y6QEUfCCc0IxbXGsyx2fWSZBJJj5XVw4C4EgLNzZ8uggJH93+SuJCPWkvICPfd7rk5+MD2cSImDxQkD3K4DbKAAA" clip-path="url(#c797bd6)"/>
 </a>
 <a href="https://jamflow.cloud" class="sponsorkit-link" target="_blank" id="JAMflow-Cloud">
   
@@ -85,10 +85,10 @@ text {
 </a>
 <a href="https://itsnasreddine.dev" class="sponsorkit-link" target="_blank" id="xerox0213">
   
-  <clipPath id="c038952">
+  <clipPath id="c415b71">
     <rect x="477.5" y="261" width="25" height="25" rx="12.5" ry="12.5" />
   </clipPath>
-  <image x="477.5" y="261" width="25" height="25" href="data:image/webp;base64,UklGRqwBAABXRUJQVlA4IKABAABQCgCdASoyADIAPm0skUYkIiGhLh244IANiWUAw6Q+vz+9lVKn1tgbYeCpdAVJ5myDuY5cFQ/qrqwih9pafYX9HMgzBrCcsmtb4mFV1e+7Nn5AGK8iSZP0y9QAAP7zCX6vfuK0XsjoSR7N2EPAThsXX352H+eIkhOKoJ/jft+lPxRpJ5kYJtl52Y4VKBPSVY1Nei/wnHQ3/lfil3cfikqkIU+/7hGQLBnYj583xqDU1JckHkaRax5vXsZ9BFlhBFHepx3qnKy7ys86jBibb5mFOG6Bx5153SrUqD20d0vYM75PZGcZSQt0+BBGcpQdFpZe7lIc5W+7z6TSFS9d2CVZkCyWgMwFR1419mwcM4RlRiwm51Vqd0E5SQM3DflzhjNZpzosVoL1n1ADhT6Vg92UIAy5rl9MWp/ZtxlrsjI+AqcbGi9gosAkVG/FEYJCUDxA1Vko4I+FoFxMoR3ctk5dO6UUXtzaD4CUlowh6zzciGSqOjphG8ySjuMqKz5wTHJahIoadm5B3sFjTUX6U5MYO5lPvdh074uC6ArAAAAAAA==" clip-path="url(#c038952)"/>
+  <image x="477.5" y="261" width="25" height="25" href="data:image/webp;base64,UklGRrgBAABXRUJQVlA4IKwBAADQCQCdASoyADIAPm0qkUYkIiGhLh244IANiWUtgAn6lRpJVRIdIW45l/BJlpm/W6Rbe9w5Sn7ve8jjC+fToRkArKgJPTUDuLlri5P8/B8IzhH+PzbDwVAA/vMJfqzJLDhgIvbxkSsLHfxWIpvsPxI5UXPzfYf4rqpmuzYAbIXXtdV9XQd94Eek9XmjL4ePoL1t/jy56fO1RSx278hnvmclq9NN8kJN8DLC3ghvMIa0gsILVXiqEPsQ7LjExn/Ucpi4BqtU+2gpVveXQusTW0Afgu+irWhfytd6aFogIFv8vg0LyuvQhvWPc9tAa++dahcC60RFbq5U5Ipljf91V+uhyRdlYSDbkrs2cB0K14KnrolI7BqunE/elY6qYdZ5RWgzFYsWO2+sej/QDuIphRZFi4PPssoGn+VRRU3Tal3UrBkRmWtbljwut6OJyTxA/524WIIls8NEruus1kSBsrqCLnokuNcmEPWdi+OodXNstl6DhcyEyhurl80pxM7sngcQxeXS4pSBjDoaky+9nsX83myuo3yL/t6ZaqmwFVgdWNurf8bDDA8a6W4gAA==" clip-path="url(#c415b71)"/>
 </a>
 <a href="https://hrcd.fr" class="sponsorkit-link" target="_blank" id="HugoRCD">
   
