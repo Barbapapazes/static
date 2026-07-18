@@ -38105,7 +38105,7 @@
       }
     },
     "isOneTime": false,
-    "monthlyDollars": 8,
+    "monthlyDollars": -1,
     "privacyLevel": "PUBLIC",
     "tierName": "$8 a month",
     "createdAt": "2025-06-03T10:58:32Z",
@@ -38116,7 +38116,7 @@
       "login": "HugoRCD",
       "name": "Hugo",
       "avatarUrl": "https://avatars.githubusercontent.com/u/71938701?u=4ec56bf54cc7a891e27a2714741123de34741995&v=4",
-      "websiteUrl": "https://hrcd.fr",
+      "websiteUrl": "https://hugorcd.com",
       "linkUrl": "https://github.com/HugoRCD",
       "type": "User",
       "avatarBuffer": {
